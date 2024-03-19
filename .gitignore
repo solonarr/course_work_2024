@@ -158,23 +158,14 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
-/tass_crawler_data.json
 /tmp/
-/.idea/misc.xml
 /check.py
 /evaluation_cosine_similarity.py
 /gensim_similarity.py
-/.idea/multi-doc-summarization_course_work.iml
 /news_data.json
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/inspectionProfiles/Project_Default.xml
 /rake_key_snt_extractor.py
 /ria_crawler_data.json
 /runner.py
-/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_03_2024_20_22_[Changes]/shelved.patch
 /summarizer.py
+/tass_crawler_data.json
 /try.py
-/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_03_2024_20_22__Changes_.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
-/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_03_2024_20_22_[Changes]/shelved.patch
