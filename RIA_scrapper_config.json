@@ -1,0 +1,18 @@
+{
+    "seed_urls": ["https://ria.ru/politics+vybory-prezidenta-rossii--2"
+    ],
+    "headers": {
+         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+         "Accept-Encoding": "gzip, deflate, br, zstd",
+         "Accept-Language": "en-US,en;q=0.9,ru-RU;q=0.8,ru;q=0.7",
+         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+         "sec-ch-ua-platform" : "Windows",
+         "sec-ch-ua-mobile": "?0",
+         "cookie": "_ym_uid=1672264979899979853; gdpr=0; my=YwA=; yandexuid=4390332841672262051; yuidss=4390332841672262051; amcuid=936636321703520915; _ym_d=1705042573; yashr=304294401705598409; is_gdpr=0; skid=1864514971706857288; is_gdpr_b=COq+UxDz7AEoAg==; receive-cookie-deprecation=1; i=zlWbizRgojTgJNr3KwuMHrY4zl+JQpKd5vY7ZCN0SYzqXAAiLwUY27juwTcnh9S3YDFFukem1pVBtBn4Sq0FYG33kN0=; yabs-vdrf=S3zzb6G187m00djLbjWBems01QxfbA00sGHu0ox1b9WZJfem1-gHb9G0kysa1O8nb3m0NToG01Onb6W1LNea1HuXbT01Q-Iu0deHbjm2NzU80deHbHm0Y-J816eDbh027lnK0TNjbu00f5eu1FMXb6m2ANN41Xr9bY007WnC0V59b8W2eIW408pXb2W0k7Mu143LbwW1QGm00n1rb8m3GV6W10; bh=EkEiQ2hyb21pdW0iO3Y9IjEyMiIsICJOb3QoQTpCcmFuZCI7dj0iMjQiLCAiR29vZ2xlIENocm9tZSI7dj0iMTIyIhoFIng4NiIiECIxMjIuMC42MjYxLjExMiIqAj8wOgkiV2luZG93cyJCCCIxNS4wLjAiSgQiNjQiUlwiQ2hyb21pdW0iO3Y9IjEyMi4wLjYyNjEuMTEyIiwiTm90KEE6QnJhbmQiO3Y9IjI0LjAuMC4wIiwiR29vZ2xlIENocm9tZSI7dj0iMTIyLjAuNjI2MS4xMTIiIg==; Session_id=3:1710397929.5.0.1672659636054:Oy1tWQ:b.1.2:1|1130000059796017.-1.0.2:35401241.3:1708060877|1743705062.3282888.2.2:3282888|1685080849.3282925.2.2:3282925|1683973450.5202643.2.2:5202643.3:1677862279|1683974418.5367822.2.2:5367822.3:1678027458|941684394.15235009.2.2:15235009.3:1687894645|3:10284491.740449.UpQhWj3xicqbwnyHYiMfOHe8Uuk; sessar=1.1187.CiBLZFBLzASVzF-scMCL3HH2J4HwVnOdNU_J21tyfqG6Dw.31Xjk_oT6PGs7oVZ_ppRmgLw62ZiT-d2JEEbWV42kX8; sessionid2=3:1710397929.5.0.1672659636054:Oy1tWQ:b.1.2:1|1130000059796017.-1.0.2:35401241.3:1708060877|1743705062.3282888.2.2:3282888|1685080849.3282925.2.2:3282925|1683973450.5202643.2.2:5202643.3:1677862279|1683974418.5367822.2.2:5367822.3:1678027458|941684394.15235009.2.2:15235009.3:1687894645|3:10284491.740449.fakesign0000000000000000000; yandex_login=svzakharova_3@edu.hse.ru; bh=Ej8iQ2hyb21pdW0iO3Y9IjEyMiIsIk5vdChBOkJyYW5kIjt2PSIyNCIsIkdvb2dsZSBDaHJvbWUiO3Y9IjEyMiIaBSJ4ODYiIhAiMTIyLjAuNjI2MS4xMTMiKgI/MDoJIldpbmRvd3MiQggiMTUuMC4wIkoEIjY0IlJcIkNocm9taXVtIjt2PSIxMjIuMC42MjYxLjExMyIsIk5vdChBOkJyYW5kIjt2PSIyNC4wLjAuMCIsIkdvb2dsZSBDaHJvbWUiO3Y9IjEyMi4wLjYyNjEuMTEzIiI=; cycada=NFacaHX1Rv5rxnuSEBnlyZM77kEQQ8IO+pQFQSil3ZE=; yabs-sid=1488358551710492835; _ym_isad=2; ys=udn.cDpzdnpha2hhcm92YV8zQGVkdS5oc2UucnU%3D#c_chck.2367217225; ymex=2025883246.yrts.1710523246; yp=1988019613.multib.1#1710933110.szm.1_5:1280x720:1280x551#2025757929.udn.cDpzdnpha2hhcm92YV8zQGVkdS5oc2UucnU%3D"
+    },
+    "total_articles": 20,
+    "encoding": "utf-8",
+    "timeout": 15,
+    "should_verify_certificate": true,
+    "headless_mode": true
+}

@@ -1,0 +1,16 @@
+{
+    "seed_urls": ["https://tass.ru/opk"],
+    "headers": {
+         "accept": "*/*",
+         "accept-language": "en-US,en;q=0.9,ru-RU;q=0.8,ru;q=0.7",
+         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+         "sec-ch-ua-platform" : "Windows",
+         "sec-ch-ua-mobile": "?0",
+         "cookie": "guid=E9CD762163ACB293X1672262291"
+    },
+    "total_articles": 22,
+    "encoding": "utf-8",
+    "timeout": 10,
+    "should_verify_certificate": true,
+    "headless_mode": true
+}
